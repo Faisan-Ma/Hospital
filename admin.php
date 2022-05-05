@@ -1,4 +1,4 @@
-<?php
+gi<?php
 session_start();
 include("headers.php");
 include("dbconnection.php");
